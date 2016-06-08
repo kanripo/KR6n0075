@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:32.018307
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:34
 #+TITLE: 辯中邊論述記
 #+PROPERTY: CBETA_ID T44n1835
 #+PROPERTY: ID KR6n0075
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1835
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0075_T_003-0031a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 辯中邊論述記卷下¶
+辯中邊論述記卷下¶
 ¶
 翻經沙門基撰¶
 
